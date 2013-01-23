@@ -1,8 +1,11 @@
 WHAT IS IT
 =====
 
-This tool will create a statistical breakdown for words used by two
-groups of twitter users. In perfect world it should
+This is work in progress but I always maintain it in "ready-to-launch"
+state.
+
+Currently this tool will create a statistical breakdown for words used by two
+groups of twitter users. 
 
 HOWTO
 =====
@@ -13,8 +16,15 @@ HOWTO
 
 Requirements
 ====
-- python-twitter
-- ConfigParser (should be shipped with python) 
-- tested on Python 2.7.3
+* python-twitter
+* ConfigParser (should be shipped with python) 
+* tested on Python 2.7.3
 
-
+TODO
+====
+* complete twitter backend
+* hashtag support
+* global search support
+* perceptuality analysis 
+* stress/emotional volume analysis
+* behavioral analysis 
