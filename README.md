@@ -1,11 +1,11 @@
 WHAT IS IT
 =====
 
-This is work in progress but I always maintain it in "ready-to-launch"
-state.
-
 Currently this tool will create a statistical breakdown for words used by two
 groups of twitter users. 
+
+This is work in progress but I always maintain it in "ready-to-launch"
+state.
 
 HOWTO
 =====
