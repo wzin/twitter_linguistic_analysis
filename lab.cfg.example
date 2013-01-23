@@ -1,0 +1,16 @@
+[global]
+per_user_depth=70 #how many tweets to analyze from one user
+debug=0 
+words_count=150 #how many words should be returned in result set
+
+[twitter]
+consumer_key=xsgExFIgQBFxFq6HLxBRgw
+consumer_secret=Lpwau6uJxhwb8vxG3DcGuxUn5YglxxMFmeEezx3yXn4
+access_token_key=38x5x060xy5dOVx3S1j9rx1LcpeEXxlNLjQxSiSLtx7GCLlKD4
+access_token_secret=t1gPoxWwvrwcx57L4xlHh3Izxq6CAhxPRNOfxCZAxs
+
+[group_a]
+members=nickA,nickB,nickC
+
+[group_b]
+members=nickD,nickE
