@@ -12,7 +12,7 @@ HOWTO
 
 * create twitter app on https://dev.twitter.com/apps
 * put credentials into lab.cfg
-* run it : python 
+* run it : python twitter_lab.py
 
 Requirements
 ====
